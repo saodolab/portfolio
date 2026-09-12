@@ -1,6 +1,5 @@
 /*=============== TABS BUTTONS WITH SMOOTH ANIMATION ===============*/
-const tabs = document.querySelectorAll('[data-target]'),
-    tabContents = document.querySelectorAll('[data-content]')
+const tabs = document.querySelectorAll('[data-target]')
 
 tabs.forEach((tab) => {
     tab.addEventListener('click', () => {
