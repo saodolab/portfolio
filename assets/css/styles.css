@@ -148,8 +148,8 @@ img {
 }
 
 .profile__image{
-    width: 13rem;
-    height: 18rem;
+    width: 17rem;
+    height: 20rem;
     border: 0.3rem dashed var(--black-color);
     transform: rotate(5deg);
     margin: 0 auto 2rem;
