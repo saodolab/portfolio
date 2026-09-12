@@ -163,10 +163,14 @@ img {
     align-self: flex-end;
 }
 
-.profile__greeting{
-    text-align: center;
-    font-size: var(--h1-font-size);
-    font-weight: var(--font-regular);
+/*.profile__greeting{*/
+/*    text-align: center;*/
+/*    font-size: var(--h1-font-size);*/
+/*    font-weight: var(--font-regular);*/
+/*}*/
+
+.profile__data {
+    display: grid;
 }
 
 .profile__name{
