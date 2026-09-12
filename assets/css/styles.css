@@ -147,16 +147,14 @@ img {
     padding-top: 1.5rem;
 }
 
-.profile__image{
-    width: 17rem;
-    height: 20rem;
-    /*border: 0.3rem dashed var(--black-color);*/
-    transform: rotate(5deg);
-    margin: 0 auto 2rem;
-    display: grid;
-    border-radius: 0.1rem;
-    transform: rotate(5deg) translateZ(0);
-}
+/*.profile__image{*/
+/*    width: 17rem;*/
+/*    height: 20rem;*/
+/*    border: 0.3rem dashed var(--black-color);*/
+/*    transform: rotate(5deg);*/
+/*    margin: 0 auto 2rem;*/
+/*    display: grid;*/
+/*}*/
 
 .profile__img{
     width: 13rem;
