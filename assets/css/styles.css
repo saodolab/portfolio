@@ -154,6 +154,8 @@ img {
     transform: rotate(5deg);
     margin: 0 auto 2rem;
     display: grid;
+    border-radius: 0.1rem;
+    transform: rotate(5deg) translateZ(0);
 }
 
 .profile__img{
